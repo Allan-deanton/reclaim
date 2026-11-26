@@ -1,0 +1,8 @@
+{
+  "name": "Reclaim",
+  "description": "Direct, evidence-based addiction recovery and performance guide for young men ages 15 to 35.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
